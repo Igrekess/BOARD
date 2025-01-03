@@ -1,2 +1,2 @@
 # yoda
-YODA, Your Optimized Digitech Assistant
+**Y.O.D.A**, **Y**our **O**ptimized **D**igitech **A**ssistant

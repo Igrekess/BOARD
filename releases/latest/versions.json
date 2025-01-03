@@ -2,7 +2,7 @@
   "latest_version": "0.4.2",
   "minimum_version": "0.4.0",
   "applications": {
-    "create": {
+    "BOARD": {
       "download_url": "https://github.com/Igrekess/YODA/raw/main/releases/v0.9.7/StoryboardMakerPro-Create.zip",
       "checksum": "sha256-hash-create",
       "size": "size-in-bytes"

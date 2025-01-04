@@ -1,9 +1,9 @@
 {
-  "latest_version": "0.9.7",
+  "latest_version": "0.9.8",
   "minimum_version": "0.9.7",
   "applications": {
     "BOARD": {
-      "download_url": "https://github.com/Igrekess/YODA/raw/main/releases/v0.9.7/BOARD-0.9.7.zip",
+      "download_url": "https://github.com/Igrekess/YODA/raw/main/releases/v0.9.8/BOARD-0.9.8.zip",
       "checksum": "sha256-hash-create",
       "size": "size-in-bytes"
     }

@@ -3,13 +3,13 @@
   "versions": {
     "0.9.8": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARD-0.9.8.zip",
+        "downloadUrl": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARD-0.9.8.zip",
         "checksum": "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed",
         "version": "0.9.8",
         "release_notes": "Beta release - Nouvelle interface plus intuitive"
       },
       "BOARDit": {
-        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARDit-0.9.8.zip",
+        "downloadUrl": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARDit-0.9.8.zip",
         "checksum": "12a8b659824efa2a588b0cd65d985bc71ed6275660f1e6525af3b62d4cbb2dfe",
         "version": "0.9.8",
         "release_notes": "Beta release - Support des nouveaux formats"
@@ -18,13 +18,13 @@
     },
     "0.9.7": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARD-0.9.7.zip",
+        "downloadUrl": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARD-0.9.7.zip",
         "checksum": "9359612fc91367f7d8c508bc8982c6562c683beae1b762ceda5f2166c0fb646e",
         "version": "0.9.7",
         "release_notes": "Version initiale"
       },
       "BOARDit": {
-        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARDit-0.9.7.zip",
+        "downloadUrl": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARDit-0.9.7.zip",
         "checksum": "e4f358f455b8294f83778b7ee6ec8cfd6dce7a2d9cc66c5c5db00ce8194151cb",
         "version": "0.9.7",
         "release_notes": "Version initiale"

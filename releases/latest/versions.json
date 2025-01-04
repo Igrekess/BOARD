@@ -2,17 +2,36 @@
   "latest_version": "0.9.8",
   "versions": {
     "0.9.8": {
-      "BOARD_url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARD.scptd",
-      "BOARD_checksum": "a0d8dfadfbde7e6ad102016bdce756a229fa5b318e4c07a6c432fde08b86f15a",
-      "release_date": "2024-01-04",
-      "release_notes": "Beta release"
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARD-0.9.8.zip",
+        "checksum": "d17ec6ee9c0a6d3916b06d3df48edcb3ea049e32c39dcc17b4d61995fcbe132ca",
+        "version": "0.9.8",
+        "release_notes": "Beta release - Nouvelle interface plus intuitive"
+      },
+      "BOARDit": {
+        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARDit-0.9.8.zip",
+        "checksum": "12a8b659824efa2a588b0cd65d985bc71ed6275660f1e6525af3b62d4cbb2dfe",
+        "version": "0.9.8",
+        "release_notes": "Beta release - Support des nouveaux formats"
+      },
+      "release_date": "2024-01-04"
     },
     "0.9.7": {
-      "BOARD_url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARD.scptd",
-      "BOARD_checksum": "86636b0b7439350cd376a1a1eaa39abd9906a5266b794f364b9a5deddc96659c",
-      "release_date": "2023-12-20",
-      "release_notes": "Initial release"
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARD-0.9.7.zip",
+        "checksum": "9359612fc91367f7d8c508bc8982c6562c683beae1b762ceda5f2166c0fb646e",
+        "version": "0.9.7",
+        "release_notes": "Version initiale"
+      },
+      "BOARDit": {
+        "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARDit-0.9.7.zip",
+        "checksum": "e4f358f455b8294f83778b7ee6ec8cfd6dce7a2d9cc66c5c5db00ce8194151cb",
+        "version": "0.9.7",
+        "release_notes": "Version initiale"
+      },
+      "release_date": "2023-12-20"
     }
   },
-  "minimum_required_version": "0.9.7"
+  "minimum_required_version": "0.9.7",
+  "requires_simultaneous_update": true
 }

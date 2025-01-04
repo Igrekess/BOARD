@@ -4,7 +4,7 @@
     "0.9.8": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARD-0.9.8.zip",
-        "checksum": "d17ec6ee9c0a6d3916b06d3df48edcb3ea049e32c39dcc17b4d61995fcbe132ca",
+        "checksum": "17ec6ee9c0a6d3916b06d3df48edcb3ea049e32c39dcc17b4d61995fcbe132ca",
         "version": "0.9.8",
         "release_notes": "Beta release - Nouvelle interface plus intuitive"
       },

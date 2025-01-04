@@ -9,7 +9,7 @@
     },
     "0.9.7": {
       "BOARD_url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARD.scptd",
-      "BOARD_checksum": "sha256-checksum-for-0.9.7",
+      "BOARD_checksum": "86636b0b7439350cd376a1a1eaa39abd9906a5266b794f364b9a5deddc96659c",
       "release_date": "2023-12-20",
       "release_notes": "Initial release"
     }

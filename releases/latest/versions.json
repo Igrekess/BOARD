@@ -1,11 +1,18 @@
 {
   "latest_version": "0.9.8",
-  "minimum_version": "0.9.7",
-  "applications": {
-    "BOARD": {
-      "download_url": "https://github.com/Igrekess/YODA/raw/main/releases/v0.9.8/BOARD-0.9.8.zip",
-      "checksum": "sha256-hash-create",
-      "size": "size-in-bytes"
+  "versions": {
+    "0.9.8": {
+      "BOARD_url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARD.scptd",
+      "BOARD_checksum": "sha256-checksum-for-0.9.8",
+      "release_date": "2024-01-04",
+      "release_notes": "Beta release"
+    },
+    "0.9.7": {
+      "BOARD_url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.7/BOARD.scptd",
+      "BOARD_checksum": "sha256-checksum-for-0.9.7",
+      "release_date": "2023-12-20",
+      "release_notes": "Initial release"
     }
-  }
+  },
+  "minimum_required_version": "0.9.7"
 }

@@ -3,7 +3,7 @@
   "versions": {
     "0.9.8": {
       "BOARD_url": "https://raw.githubusercontent.com/Igrekess/sbmp-update/main/releases/0.9.8/BOARD.scptd",
-      "BOARD_checksum": "sha256-checksum-for-0.9.8",
+      "BOARD_checksum": "a0d8dfadfbde7e6ad102016bdce756a229fa5b318e4c07a6c432fde08b86f15a",
       "release_date": "2024-01-04",
       "release_notes": "Beta release"
     },

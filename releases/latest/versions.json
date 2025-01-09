@@ -1,6 +1,15 @@
 {
-  "latest_version": "0.9.1",
+  "latest_version": "0.9.4",
   "versions": {
+    "0.9.4": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.4/BOARD-0.9.4.zip",
+        "checksum": "d09d36d22c07376115941ab6689842a83a16662462eb60156b8da9cbb29edcaa",
+        "version": "0.9.4",
+        "release_notes": "Beta release test"
+      },
+      "release_date": "2024-01-07"
+    },
     "0.9.1": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.1/BOARD-0.9.1.zip",

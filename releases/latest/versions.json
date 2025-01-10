@@ -1,7 +1,7 @@
 {
   "latest_version": "0.9.5",
   "versions": {
-    "0.9.4": {
+    "0.9.5": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.5/BOARD-0.9.5.zip",
         "checksum": "66e603b0364b339412ab84f93488fc7139a4d579a5d17c0d1bfc368e1568aaed",

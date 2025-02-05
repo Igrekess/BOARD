@@ -1,6 +1,15 @@
 {
-  "latest_version": "0.9.9",
+  "latest_version": "0.9.91",
   "versions": {
+    "0.9.91": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.91/BOARD-0.9.91.zip",
+        "checksum": "d1834f6c44dfc238bf09a8ad56853f7718746ce9e60186f9c555bda89f479287",
+        "version": "0.9.91",
+        "release_notes": "Fix minor issues. Stronger size gestion"
+      },
+      "release_date": "2024-02-05"
+    },
     "0.9.9": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.9/BOARD-0.9.9.zip",

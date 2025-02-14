@@ -97,6 +97,7 @@ The result? A significant boost in:
 
 ## System Requirements
 - macOS (compatible with recent versions)
+- Xcode Command Line Tools installed
 - Adobe Photoshop
 - Capture One (highly recommended)
   * While technically optional, Capture One is strongly recommended for optimal workflow

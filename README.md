@@ -1,18 +1,19 @@
-## YODA BOARD Overview
-*"Always with you, what cannot be done. Hear you nothing that I say?"*
+## ‣BOARD Overview
 
-BOARD is the flagship tool in the YODA suite, revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
 
-<img src="imgs/demo_board.png" alt="Screenshot of a contact sheet made with Board" width="500"/> <img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="500"/>
+‣BOARD is revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
 
+<img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="500"/>  <img src="imgs/demo_board.png" alt="Screenshot of a contact sheet made with Board" width="500"/>
+ 
 ## Quick presentations videos :
+
 - https://youtu.be/NLkbjuNyCMY
 - https://youtu.be/JerVrLAY4qw
 - https://youtu.be/r3Y_gpg4Rfc
 - https://youtu.be/kpxVXmPDQuo
 
 
-### Why BOARD Matters
+### Why ‣BOARD Matters
 During a photo shoot, maintaining a clear overview of your project is paramount. A well-organized board serves multiple critical purposes:
 - Provides a comprehensive view of the entire shoot
 - Ensures visual consistency across all images
@@ -32,8 +33,7 @@ Traditionally, creating these layouts has been:
 - Difficulty in maintaining different versions
 - Limited flexibility for quick adjustments
 
-### The YODA BOARD Solution
-*"Difficult to see. Always in motion is the future."*
+### The ‣BOARD Solution
 
 BOARD transforms this process by:
 - Integrating seamlessly with Capture One
@@ -96,6 +96,11 @@ The result? A significant boost in:
   * Easy sharing of progress and updates
   * Consistent formatting across different users
   * Standardized workflow for multiple operators
+
+### **Photoshop structure**
+<img src="imgs/demo_board_2.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
+
+<img src="imgs/BOARD-photoshop-01.png" alt="Screenshot of photoshop layers structure" width="500"/>  <img src="BOARD-photoshop-02.png" alt="Screenshot of photoshop layers structure" width="500"/>
 
 ## System Requirements
 - macOS (compatible with recent versions)

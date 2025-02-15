@@ -1,5 +1,6 @@
-## ‣BOARD Overview
+<img src="imgs/BoardLogoV3.png" alt="BOARD app logo" width="80"/>
 
+## ‣BOARD Overview
 
 ‣BOARD is revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
 

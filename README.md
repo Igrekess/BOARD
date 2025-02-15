@@ -98,7 +98,7 @@ The result? A significant boost in:
   * Standardized workflow for multiple operators
 
 ### **Photoshop structure**
-<img src="imgs/demo_board_2.png" alt="Screenshot of a contact sheet made with Board" width="810"/>
+<img src="imgs/demo_board_2.png" alt="Screenshot of a contact sheet made with Board" width="800"/>
 
 <img src="imgs/BOARD-photoshop-01.png" alt="Screenshot of photoshop layers structure" width="400"/>  <img src="imgs/BOARD-photoshop-02.png" alt="Screenshot of photoshop layers structure" width="400"/>
 

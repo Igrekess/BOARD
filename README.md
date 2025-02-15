@@ -1,4 +1,4 @@
-<img src="imgs/BoardLogoV3.png" alt="BOARD app logo" width="80"/>
+<img src="imgs/BoardLogoV3.png" alt="BOARD app logo" width="95"/>
 
 ## ‣BOARD Overview
 

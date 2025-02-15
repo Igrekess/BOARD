@@ -100,7 +100,7 @@ The result? A significant boost in:
 ### **Photoshop structure**
 <img src="imgs/demo_board_2.png" alt="Screenshot of a contact sheet made with Board" width="800"/>
 
-<img src="imgs/BOARD-photoshop-01.png" alt="Screenshot of photoshop layers structure" width="400"/>  <img src="imgs/BOARD-photoshop-02.png" alt="Screenshot of photoshop layers structure" width="400"/>
+<img src="imgs/BOARD-photoshop-01.png" alt="Screenshot of photoshop layers structure" width="400"/><img src="imgs/BOARD-photoshop-02.png" alt="Screenshot of photoshop layers structure" width="400"/>
 
 ## System Requirements
 - macOS (compatible with recent versions)

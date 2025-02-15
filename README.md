@@ -3,6 +3,8 @@
 
 BOARD is the flagship tool in the YODA suite, revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
 
+<img src="imgs/demo_board.png" alt="Screenshot of a contact sheet made with Board" width="600"/>
+
 ## Quick presentations videos :
 - https://youtu.be/NLkbjuNyCMY
 - https://youtu.be/JerVrLAY4qw

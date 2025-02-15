@@ -4,7 +4,8 @@
 
 BOARD is revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
 
-[Download the beta version here](https://github.com/Igrekess/BOARD/releases/tag/0.9.92)
+### ‣‣‣ [Download the beta version here](https://github.com/Igrekess/BOARD/releases)
+
 
 <img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="400"/>  <img src="imgs/demo_board.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
  

@@ -1,6 +1,6 @@
 <img src="imgs/BoardLogoV3.png" alt="BOARD app logo" width="95"/>
 
-## ‣BOARD Overview
+## ‣ BOARD Overview
 
 BOARD is revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
 
@@ -21,7 +21,7 @@ BOARD is revolutionizing the way digital technicians and photographers manage th
 - https://youtu.be/kpxVXmPDQuo
 
 
-### Why ‣BOARD Matters
+### Why ‣ BOARD Matters
 During a photo shoot, maintaining a clear overview of your project is paramount. A well-organized board serves multiple critical purposes:
 - Provides a comprehensive view of the entire shoot
 - Ensures visual consistency across all images
@@ -41,7 +41,7 @@ Traditionally, creating these layouts has been:
 - Difficulty in maintaining different versions
 - Limited flexibility for quick adjustments
 
-### The ‣BOARD Solution
+### The ‣ BOARD Solution
 
 BOARD transforms this process by:
 - Integrating seamlessly with Capture One

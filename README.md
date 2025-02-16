@@ -13,6 +13,7 @@ BOARD is revolutionizing the way digital technicians and photographers manage th
 <p align="center">
 <img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="400"/> <img src="imgs/SetupBoard.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
  </p>
+
 ## Quick presentations videos :
 
 - https://youtu.be/NLkbjuNyCMY

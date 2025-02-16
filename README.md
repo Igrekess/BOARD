@@ -6,9 +6,13 @@ BOARD is revolutionizing the way digital technicians and photographers manage th
 
 ### ‣‣‣ [Download the beta version here](https://github.com/Igrekess/BOARD/releases)
 
+<p align="center">
+  <img src="imgs/demo_board.png" alt="Screenshot of a contact sheet made with Board" width="600"/>
+</p>
 
-<img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="400"/>  <img src="imgs/demo_board.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
- 
+<p align="center">
+<img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="400"/> <img src="imgs/SetupBoard.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
+ </p>
 ## Quick presentations videos :
 
 - https://youtu.be/NLkbjuNyCMY
@@ -102,9 +106,12 @@ The result? A significant boost in:
   * Standardized workflow for multiple operators
 
 ### **Photoshop structure**
+<p align="center">
 <img src="imgs/demo_board_2.png" alt="Screenshot of a contact sheet made with Board" width="800"/>
-
+</p>
+<p align="center">
 <img src="imgs/BOARD-photoshop-01.png" alt="Screenshot of photoshop layers structure" width="400"/><img src="imgs/BOARD-photoshop-02.png" alt="Screenshot of photoshop layers structure" width="400"/>
+</p>
 
 ## System Requirements
 - macOS (compatible with recent versions)

@@ -2,8 +2,9 @@
 
 ## ‣ BOARD Overview
 
+**BOARD helps you create professional layouts in Photoshop or InDesign directly from Capture One.**
+
 BOARD is revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
-It helps to construct board inside Capture One with photoshop or InDesign.
 
 ### ‣‣‣ [Download the beta version here](https://github.com/Igrekess/BOARD/releases)
 

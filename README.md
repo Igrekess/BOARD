@@ -3,6 +3,7 @@
 ## ‣ BOARD Overview
 
 BOARD is revolutionizing the way digital technicians and photographers manage their visual workflow. Whether you call it a board, layout, moodboard, or contactsheet - the concept remains the same: maintaining a comprehensive overview of your shoot is crucial for ensuring consistency and creative coherence.
+It helps to construct board inside Capture One with photoshop or InDesign.
 
 ### ‣‣‣ [Download the beta version here](https://github.com/Igrekess/BOARD/releases)
 
@@ -125,6 +126,7 @@ The result? A significant boost in:
 - macOS (compatible with recent versions)
 - Xcode Command Line Tools installed
 - Adobe Photoshop
+- Adobe InDesign
 - Capture One (highly recommended)
   * While technically optional, Capture One is strongly recommended for optimal workflow
   * Provides seamless integration with automatic image processing

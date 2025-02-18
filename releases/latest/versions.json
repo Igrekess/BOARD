@@ -1,6 +1,15 @@
 {
-  "latest_version": "0.9.92",
+  "latest_version": "0.9.93",
   "versions": {
+     "0.9.93": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.93/BOARD-0.9.93.zip",
+        "checksum": "9e95270abfaf4685e9f7ae912af7294495350e1a7d779d31998082b612601019",
+        "version": "0.9.93",
+        "release_notes": "integration of Adobe InDesign into BOARD. "
+      },
+      "release_date": "2024-02-18"
+    },
     "0.9.92": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.92/BOARD-0.9.92.zip",

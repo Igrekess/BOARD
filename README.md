@@ -6,6 +6,13 @@ BOARD is revolutionizing the way digital technicians and photographers manage th
 
 ### ‣‣‣ [Download the beta version here](https://github.com/Igrekess/BOARD/releases)
 
+**Please note that it's best to install the Xcode Command Line Tools manually via Terminal before running the installer.** 
+You can do this by executing the following command in your terminal:
+
+xcode-select --install
+
+I am still encountering some integration issues depending on the system. Additionally, I lack sufficient user feedback to advance the universality of the code across different systems. While everything works perfectly on three different computers on my end, I am aware that on some systems, for example, Board works but Boarding does not, and I need more data to understand the issue.
+
 <p align="center">
   <img src="imgs/demo_board.png" alt="Screenshot of a contact sheet made with Board" width="600"/>
 </p>

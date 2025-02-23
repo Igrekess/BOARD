@@ -150,7 +150,7 @@ Privacy and Data Security: BOARD is designed with strict privacy in mind. The ap
 <img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="400"/> <img src="imgs/SetupBoard.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
 </p>
 
-### Layer Structure
+### Photoshop Layer Structure
 <p align="center">
 <img src="imgs/demo_board_2.png" alt="Screenshot of a contact sheet made with Board" width="800"/>
 </p>

@@ -147,7 +147,7 @@ Privacy and Data Security: BOARD is designed with strict privacy in mind. The ap
 - [Tips & Tricks](https://youtu.be/kpxVXmPDQuo)
 
 <p align="center">
-<img src="imgs/MainBoard.png" alt="Screenshot of the main interface of Board" width="400"/> <img src="imgs/SetupBoard.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
+<img src="imgs/MainBoardC1.png" alt="Screenshot of the main interface of Board" width="400"/> <img src="imgs/BoardPreferences.png" alt="Screenshot of a contact sheet made with Board" width="400"/>
 </p>
 
 ### Photoshop Layer Structure

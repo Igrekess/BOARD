@@ -20,7 +20,7 @@
 - [Privacy & Security](#privacy--security)
 - [Documentation](#documentation)
   - [Video Tutorials](#video-tutorials)
-  - [Layer Structure](#layer-structure)
+  - [Photoshop Layer Structure](#photoshop-layer-structure)
 - [Benefits & Impact](#benefits--impact)
   - [Workflow Benefits](#workflow-benefits)
   - [Team Collaboration](#team-collaboration)

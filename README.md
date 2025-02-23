@@ -79,21 +79,31 @@ Perfect for:
 2. Follow on-screen instructions
 3. Set up shortcuts as guided
 
-**Manual Installation:**
-1. Install Xcode Command Line Tools if not present (in terminal):
-			xcode-select --install 
-2. Copy application to correct locations:
-* Copy BOARD.app to your Capture One script folder (https://github.com/Igrekess/BOARD/tree/main/releases/0.9.95)
-* Ensure proper permissions:
-chmod -R 755 /Library/Scripts/Capture One Scripts/BOARD.app
-3. BOARDing.app will be created at the first launch of BOARD.app
-4. Setup your shortcuts
+**Manual Installation**
+1. **Install Xcode Command Line Tools:**
+
+   ```bash
+   xcode-select --install
+
+2. Copy BOARD.app to Capture One scripts folder:
+   ```bash
+   cp BOARD.app ~/Library/Scripts/Capture\ One\ Scripts/
+
+3. Create an alias in the Applications folder
+    ```bash
+    ln -s ~/Library/Scripts/Capture\ One\ Scripts/BOARD/BOARD.app /Applications/BOARD.app
+
+4. Set proper permissions:
+    ```bash
+    chmod -R 755 ~/Library/Scripts/Capture\ One\ Scripts/BOARD.app
+
+5. Setup your shortcuts
 * Open **System Preferences** and go to **Keyboard**.
-* Select the Shortcuts tab, then click on **App Shortcuts** in the sidebar.
+* Select the **Shortcuts tab**, then click on **App Shortcuts** in the sidebar.
 * Click the **+** button to add a new shortcut.
-* In the Application dropdown, select **Capture One**.
-* In the Menu Title field, type the exact name of the menu command you want to assign a shortcut to (e.g., "BOARD" & "BOARDing").
-* In the Keyboard Shortcut field, press the key combination you’d like to use.
+* In the Application dropdown, select your version of **Capture One**.
+* In the Menu **Title field**, type the exact name of the menu command you want to assign a shortcut to (e.g., "BOARD" & "BOARDing").
+* In the **Keyboard Shortcut field**, press the key combination you’d like to use.
 * Click **Add** to save the shortcut.
 
 ### Security

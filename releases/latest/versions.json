@@ -4,7 +4,7 @@
     "0.9.98": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.98/Board-0.9.98.zip",
-        "checksum": "b9f4748473e83d92aa4b2e69912be3826480239172ead53dac0cd63982ed2749",
+        "checksum": "29f60dbc7e2083b63a0246f8fdfa0c25c692c233d8246adaf6ad971a2ad0a523",
         "version": "0.9.98",
         "release_notes": "Log bug correction. Gutters correction."
       },
@@ -13,7 +13,7 @@
       "0.9.97": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.97/Board-0.9.97.zip",
-        "checksum": "16d26c0a36fe73a6d83d9e5bae5e5ed7f047e9480b063a5a5a6cde3f108e2a5a",
+        "checksum": "d86c1da1de65ace4efce5a5498eaa81643ff91dd390e6833aeaa1847370376b1",
         "version": "0.9.97",
         "release_notes": "Adding InDesign support."
       },

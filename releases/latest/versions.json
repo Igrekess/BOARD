@@ -3,7 +3,7 @@
   "versions": {
     "0.9.98": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.98/BOARD-0.9.98.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.98/Board-0.9.98.zip",
         "checksum": "b9f4748473e83d92aa4b2e69912be3826480239172ead53dac0cd63982ed2749",
         "version": "0.9.98",
         "release_notes": "Log bug correction. Gutters correction."
@@ -12,7 +12,7 @@
     },
       "0.9.97": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.97/BOARD-0.9.97.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.97/Board-0.9.97.zip",
         "checksum": "16d26c0a36fe73a6d83d9e5bae5e5ed7f047e9480b063a5a5a6cde3f108e2a5a",
         "version": "0.9.97",
         "release_notes": "Adding InDesign support."
@@ -21,7 +21,7 @@
     },
        "0.9.96": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.96/BOARD-0.9.96.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.96/Board-0.9.96.zip",
         "checksum": "12b71cf2d9acd97aa8cb92b88b07317bbed3b209d8cdd39e29c998591afa1d2b",
         "version": "0.9.96",
         "release_notes": "New Swift/Jsx version "

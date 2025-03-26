@@ -3,7 +3,7 @@
   "versions": {
     "0.9.98": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.98/BOARD-0.9.98.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.98/BOARD-0.9.98.zip",
         "checksum": "b9f4748473e83d92aa4b2e69912be3826480239172ead53dac0cd63982ed2749",
         "version": "0.9.98",
         "release_notes": "Log bug correction. Gutters correction."
@@ -12,7 +12,7 @@
     },
       "0.9.97": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.97/BOARD-0.9.97.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.97/BOARD-0.9.97.zip",
         "checksum": "16d26c0a36fe73a6d83d9e5bae5e5ed7f047e9480b063a5a5a6cde3f108e2a5a",
         "version": "0.9.97",
         "release_notes": "Adding InDesign support."
@@ -21,7 +21,7 @@
     },
        "0.9.96": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.96/BOARD-0.9.96.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.96/BOARD-0.9.96.zip",
         "checksum": "12b71cf2d9acd97aa8cb92b88b07317bbed3b209d8cdd39e29c998591afa1d2b",
         "version": "0.9.96",
         "release_notes": "New Swift/Jsx version "
@@ -30,7 +30,7 @@
     },
       "0.9.95": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.95/BOARD-0.9.95.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.95/BOARD-0.9.95.zip",
         "checksum": "e066963c03b57fa92ed8cf5cb6f5bfa0a08a5fd0b80dc2b24cd8f0001a8bc741",
         "version": "0.9.95",
         "release_notes": "integration of Adobe InDesign into BOARD. "
@@ -39,7 +39,7 @@
     },
      "0.9.93": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.93/BOARD-0.9.93.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.93/BOARD-0.9.93.zip",
         "checksum": "20405657098314af988e28d77e8eb1277add171d6a99a1fdbd595637fce4d34d",
         "version": "0.9.93",
         "release_notes": "integration of Adobe InDesign into BOARD. "
@@ -48,7 +48,7 @@
     },
     "0.9.92": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.92/BOARD-0.9.92.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.92/BOARD-0.9.92.zip",
         "checksum": "805271af76f679e7d63269b446bb78af54aa38d81ea1608535f7d6add2fcfb3e",
         "version": "0.9.92",
         "release_notes": "Major update.Please use the installer and don't update if you have a previous version installed"
@@ -57,7 +57,7 @@
     },
     "0.9.91": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.91/BOARD-0.9.91.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.91/BOARD-0.9.91.zip",
         "checksum": "d1834f6c44dfc238bf09a8ad56853f7718746ce9e60186f9c555bda89f479287",
         "version": "0.9.91",
         "release_notes": "Fix minor issues. Stronger size gestion"
@@ -66,7 +66,7 @@
     },
     "0.9.9": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.9/BOARD-0.9.9.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.9/BOARD-0.9.9.zip",
         "checksum": "f5b91bb8a15cef0b490ac59696dcc60050ec59e99d06e04642dfe9d094e09e36",
         "version": "0.9.9",
         "release_notes": "Open Beta Release"
@@ -75,7 +75,7 @@
     },
     "0.9.8": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.8/BOARD-0.9.8.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.8/BOARD-0.9.8.zip",
         "checksum": "dc395433accb526a70af415e2b19183da4260e8f2067b71f9cb21024ec1614bc",
         "version": "0.9.8",
         "release_notes": "Closed Beta Release"
@@ -84,7 +84,7 @@
     },
     "0.9.7": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.7/BOARD-0.9.7.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.7/BOARD-0.9.7.zip",
         "checksum": "d0f4c19034b6fc64c8ab37339005a3cb0b4af9edd04c1aa0f1a7a0f614ccc8c4",
         "version": "0.9.7",
         "release_notes": "Pre Beta Release"

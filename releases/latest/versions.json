@@ -4,7 +4,7 @@
     "0.9.98": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.98/Board-0.9.98.zip",
-        "checksum": "29f60dbc7e2083b63a0246f8fdfa0c25c692c233d8246adaf6ad971a2ad0a523",
+        "checksum": "b28a261d7d8b81474172a5931256e850f1eb5de224cbca9a9512e3a4ac761fd2",
         "version": "0.9.98",
         "release_notes": "Log bug correction. Gutters correction."
       },

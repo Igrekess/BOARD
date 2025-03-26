@@ -1,6 +1,33 @@
 {
-  "latest_version": "0.9.95",
+  "latest_version": "0.9.97",
   "versions": {
+    "0.9.98": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.98/BOARD-0.9.98.zip",
+        "checksum": "b9f4748473e83d92aa4b2e69912be3826480239172ead53dac0cd63982ed2749",
+        "version": "0.9.98",
+        "release_notes": "Log bug correction. Gutters correction."
+      },
+      "release_date": "2024-03-26"
+    },
+      "0.9.97": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.97/BOARD-0.9.97.zip",
+        "checksum": "16d26c0a36fe73a6d83d9e5bae5e5ed7f047e9480b063a5a5a6cde3f108e2a5a",
+        "version": "0.9.97",
+        "release_notes": "Adding InDesign support."
+      },
+      "release_date": "2024-03-24"
+    },
+       "0.9.96": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.96/BOARD-0.9.96.zip",
+        "checksum": "12b71cf2d9acd97aa8cb92b88b07317bbed3b209d8cdd39e29c998591afa1d2b",
+        "version": "0.9.96",
+        "release_notes": "New Swift/Jsx version "
+      },
+      "release_date": "2024-03-20"
+    },
       "0.9.95": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/YODA/main/releases/0.9.95/BOARD-0.9.95.zip",
@@ -65,5 +92,5 @@
       "release_date": "2024-01-19"
     }
   },
-  "minimum_required_version": "0.9.7"
+  "minimum_required_version": "0.9.96"
 }

@@ -4,7 +4,7 @@
     "0.9.99": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.99/Board-0.9.99.zip",
-        "checksum": "b28a261d7d8b81474172a5931256e850f1eb5de224cbca9a9512e3a4ac761fd2",
+        "checksum": "633509d27b5c8808ea90f408e848a319d9e3a3d244c4dd5ee6e748da2a61a7ce",
         "version": "0.9.99",
         "release_notes": "Added Board Controller a collapsible window in the taskbar that provides quick access"
       },

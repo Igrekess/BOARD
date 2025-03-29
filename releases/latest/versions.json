@@ -4,39 +4,12 @@
     "0.9.99": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.99/Board-0.9.99.zip",
-        "checksum": "633509d27b5c8808ea90f408e848a319d9e3a3d244c4dd5ee6e748da2a61a7ce",
+        "checksum": "f454d75d540cf025c5ec6d19103908cc1564481ca23af76006580e2f6ffd40a8",
         "version": "0.9.99",
         "release_notes": "Added Board Controller a collapsible window in the taskbar that provides quick access"
       },
       "release_date": "2024-03-27"
     },
-    "0.9.98": {
-      "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.98/Board-0.9.98.zip",
-        "checksum": "b28a261d7d8b81474172a5931256e850f1eb5de224cbca9a9512e3a4ac761fd2",
-        "version": "0.9.98",
-        "release_notes": "Log bug correction. Gutters correction."
-      },
-      "release_date": "2024-03-26"
-    },
-      "0.9.97": {
-      "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.97/Board-0.9.97.zip",
-        "checksum": "d86c1da1de65ace4efce5a5498eaa81643ff91dd390e6833aeaa1847370376b1",
-        "version": "0.9.97",
-        "release_notes": "Adding InDesign support."
-      },
-      "release_date": "2024-03-24"
-    },
-      "0.9.95": {
-      "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.95/BOARD-0.9.95.zip",
-        "checksum": "e066963c03b57fa92ed8cf5cb6f5bfa0a08a5fd0b80dc2b24cd8f0001a8bc741",
-        "version": "0.9.95",
-        "release_notes": "integration of Adobe InDesign into BOARD. "
-      },
-      "release_date": "2024-02-22"
-    },   
   },
   "minimum_required_version": "0.9.98"
 }

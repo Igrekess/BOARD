@@ -70,41 +70,6 @@ Perfect for:
 
 ### Installation Process
 
-**Pre-requisites:**
-- Compatible versions of Adobe Photoshop/InDesign and Capture One
-- Xcode command line tools installed
-
-**Automatic Installation:**
-1. Download and run "Board installer.dmg" (https://github.com/Igrekess/BOARD/releases/tag/0.9.99)
-2. Follow on-screen instructions
-3. Set up shortcuts as guided
-
-**Manual Installation**
-1. **Install Xcode Command Line Tools:**
-
-   ```bash
-   xcode-select --install
-
-2. Copy BOARD.app to Capture One scripts folder:
-   ```bash
-   cp BOARD.app ~/Library/Scripts/Capture\ One\ Scripts/
-
-3. Create an alias in the Applications folder
-    ```bash
-    ln -s ~/Library/Scripts/Capture\ One\ Scripts/BOARD/BOARD.app /Applications/BOARD.app
-
-4. Set proper permissions:
-    ```bash
-    chmod -R 755 ~/Library/Scripts/Capture\ One\ Scripts/BOARD.app
-
-5. Setup your shortcuts
-* Open **System Preferences** and go to **Keyboard**.
-* Select the **Shortcuts tab**, then click on **App Shortcuts** in the sidebar.
-* Click the **+** button to add a new shortcut.
-* In the Application dropdown, select your version of **Capture One**.
-* In the Menu **Title field**, type the exact name of the menu command you want to assign a shortcut to (e.g., "BOARD" & "BOARDing").
-* In the **Keyboard Shortcut field**, press the key combination you’d like to use.
-* Click **Add** to save the shortcut.
 
 ### Security
 - Signed and notarized by Apple
@@ -113,20 +78,6 @@ Perfect for:
 - Gatekeeper compatible
 
 ## Applications
-
-### BOARD - Creator
-- Layout design and setup
-- Sheet dimension configuration
-- Border and color customization
-- Preset management
-- Multiple layout options
-
-### BOARDing - Exporter
-- Direct Capture One integration
-- Smart image placement
-- Automatic cell population
-- Dynamic layout extension
-- Real-time progress monitoring
 
 ## Work Environments
 

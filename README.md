@@ -75,7 +75,7 @@ Perfect for:
 - Xcode command line tools installed
 
 **Automatic Installation:**
-1. Download and run "Board installer.dmg" (https://github.com/Igrekess/BOARD/releases/tag/0.9.95)
+1. Download and run "Board installer.dmg" (https://github.com/Igrekess/BOARD/releases/tag/0.9.99)
 2. Follow on-screen instructions
 3. Set up shortcuts as guided
 

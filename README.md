@@ -54,6 +54,12 @@ Perfect for:
 
 ## Installation
 
+- Download the last release dmg, open it, drag and drop Board.app in the Applications folder.
+- Run Board.
+- Enter your licence information or request a beta.
+- Go to settings and install capture one module (click on the + in the module section)
+- Setup your shortcuts in the capture one module settings window.
+  
 ### System Requirements
 
 **Minimum:**

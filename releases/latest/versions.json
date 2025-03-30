@@ -1,14 +1,14 @@
 {
-  "latest_version": "0.9.99",
+  "latest_version": "0.9.991",
   "versions": {
     "0.9.99": {
       "BOARD": {
-        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.99/Board-0.9.99.zip",
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.991/Board-0.9.991.zip",
         "checksum": "f454d75d540cf025c5ec6d19103908cc1564481ca23af76006580e2f6ffd40a8",
-        "version": "0.9.99",
+        "version": "0.9.991",
         "release_notes": "Added Board Controller a collapsible window in the taskbar that provides quick access"
       },
-      "release_date": "2024-03-27"
+      "release_date": "2024-03-30"
     },
   },
   "minimum_required_version": "0.9.98"

@@ -1,7 +1,7 @@
 {
   "latest_version": "0.9.991",
   "versions": {
-    "0.9.99": {
+    "0.9.991": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.991/Board-0.9.991.zip",
         "checksum": "f454d75d540cf025c5ec6d19103908cc1564481ca23af76006580e2f6ffd40a8",

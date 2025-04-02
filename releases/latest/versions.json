@@ -1,6 +1,15 @@
 {
   "latest_version": "0.9.991",
   "versions": {
+    "0.91.1": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.1/Board-0.91.1.zip",
+        "checksum": "065da2b1d658abed4789cea2d8e0895518c998a422c9ca91b44ce58e8e360bb9",
+        "version": "0.91.1",
+        "release_notes": "Multiple bug fixes, license problem correction, InDesign bug fix, new interface ergonomics. Help documentation update."
+      },
+      "release_date": "2024-04-02"
+    },
     "0.9.991": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.9.991/Board-0.9.991.zip",
@@ -9,7 +18,7 @@
         "release_notes": "Added Board Controller a collapsible window in the taskbar that provides quick access"
       },
       "release_date": "2024-03-30"
-    },
+    }
   },
   "minimum_required_version": "0.9.98"
 }

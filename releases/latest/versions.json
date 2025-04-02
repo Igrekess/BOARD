@@ -4,7 +4,7 @@
     "0.91.1": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.1/Board-0.91.1.zip",
-        "checksum": "065da2b1d658abed4789cea2d8e0895518c998a422c9ca91b44ce58e8e360bb9",
+        "checksum": "7dc8c9921868e0dec86f202fc1ca3b12bc86fb382ae5033b4f1d910cd33edae3",
         "version": "0.91.1",
         "release_notes": "Multiple bug fixes, license problem correction, InDesign bug fix, new interface ergonomics. Help documentation update."
       },

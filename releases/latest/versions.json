@@ -1,6 +1,15 @@
 {
-  "latest_version": "0.91.1",
+  "latest_version": "0.91.2",
   "versions": {
+    "0.91.2": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.2/Board-0.91.2.zip",
+        "checksum": "b634dcede44b220c1a0f417f96bb3f69d2eaaf78015e65a56eb9c98f70becb66",
+        "version": "0.91.2",
+        "release_notes": "Bug Fixes : Fixed baseline text not updating correctly in ExtraSettingsView - Fixed text extraction issues in Capture One integration - Improved text composition in baseline display."
+      },
+      "release_date": "2024-04-03"
+    },
     "0.91.1": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.1/Board-0.91.1.zip",

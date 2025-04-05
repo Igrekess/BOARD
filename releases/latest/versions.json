@@ -1,6 +1,15 @@
 {
   "latest_version": "0.91.2",
   "versions": {
+     "0.91.3": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.3/Board-0.91.3.zip",
+        "checksum": "90c7470e15c00837d4563ef72348fad8cc72d7370a05b496b7a757a726b4ca13",
+        "version": "0.91.3",
+        "release_notes": "This release includes minor fixes for the licensing process."
+      },
+      "release_date": "2024-04-05"
+    },
     "0.91.2": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.2/Board-0.91.2.zip",

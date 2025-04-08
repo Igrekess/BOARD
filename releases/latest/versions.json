@@ -4,7 +4,7 @@
     "0.91.4": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.4/Board-0.91.4.zip",
-        "checksum": "6e8fff12fdab93cf4ad2658aec14807c6195527983e5edc315964a11aa99ab84",
+        "checksum": "178312c15cd194d07298525232a3fbfc22c04e331fb58862558ca099fbe1f16c",
         "version": "0.91.4",
         "release_notes": "Fixed copy/paste functionality (Cmd+V) in license key fields . Fixed an issue where the application could incorrectly identify the same computer as different machines during license activation . Improved overall license management stability"
       },

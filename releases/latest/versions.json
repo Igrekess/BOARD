@@ -1,6 +1,15 @@
 {
-  "latest_version": "0.91.4",
+  "latest_version": "0.91.5",
   "versions": {
+    "0.91.5": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.5/Board-0.91.5.zip",
+        "checksum": "9f88377ff19ffbcc7424f404565d48cb326cdfbd2b24eab87099258a825a48d2",
+        "version": "0.91.5",
+        "release_notes": "* Adding resizable window for small screen resolution\n* Fix BOARD-Export module bug : capture one recipe was not created if it doesn't already exist.\n* Fix BOARD-Create module bug : open properly the main window of Board if the controller is open.\n* Fix the final cell size colors in the main window to adapt to all systems.\n* Adding a new button in the controller to open or close the main window\n* Fix the Photoshop Guides option\n* Controller and Main View are now correctly synchronize."
+      },
+      "release_date": "2024-04-13"
+    },
     "0.91.4": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.4/Board-0.91.4.zip",

@@ -63,7 +63,7 @@ Perfect for:
 ### System Requirements
 
 **Minimum:**
-- macOS 10.15 (Catalina) or later
+- macOS 14.00 (Sonoma) or later
 - Intel Core i7 processor
 - 16GB RAM
 - 1GB available disk space

@@ -11,9 +11,6 @@
   - [System Requirements](#system-requirements)
   - [Installation Process](#installation-process)
   - [Security](#security)
-- [Applications](#applications)
-  - [BOARD Creator](#board-creator)
-  - [BOARDing Exporter](#boarding-exporter)
 - [Work Environments](#work-environments)
   - [Adobe Photoshop Workflow](#adobe-photoshop-workflow)
   - [Adobe InDesign Workflow](#adobe-indesign-workflow)
@@ -26,6 +23,20 @@
   - [Team Collaboration](#team-collaboration)
   - [Client Experience](#client-experience)
 
+### System Requirements
+
+**Minimum:**
+- macOS 13.00 (Sonoma) or later
+- Intel Core i7 processor
+- 16GB RAM
+- 1GB available disk space
+
+**Recommended:**
+- macOS 14.0 (Sonoma) or later
+- Apple Silicon (M1 or later)
+- 32GB RAM
+- SSD storage with 1GB available space
+  
 ## Overview
 
 BOARD is a dedicated application for creating contact sheets (boards) directly integrated with Capture One. It allows you to set up sheet dimensions and populate them instantly from the Capture One browser, optimizing workflow while keeping a real-time eye on the entire shoot.
@@ -60,20 +71,6 @@ Perfect for:
 - Go to settings and install capture one module (click on the + in the module section)
 - Setup your shortcuts in the capture one module settings window.
   
-### System Requirements
-
-**Minimum:**
-- macOS 14.00 (Sonoma) or later
-- Intel Core i7 processor
-- 16GB RAM
-- 1GB available disk space
-
-**Recommended:**
-- macOS 14.0 (Sonoma) or later
-- Apple Silicon (M1 or later)
-- 32GB RAM
-- SSD storage with 1GB available space
-
 ### Installation Process
 
 

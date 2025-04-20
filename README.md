@@ -26,7 +26,7 @@
 ### System Requirements
 
 **Minimum:**
-- macOS 13.00 (Sonoma) or later
+- macOS 13.00 (Ventura) or later
 - Intel Core i7 processor
 - 16GB RAM
 - 1GB available disk space

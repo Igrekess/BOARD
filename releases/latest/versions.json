@@ -1,6 +1,15 @@
 {
-  "latest_version": "0.91.5",
+  "latest_version": "0.91.6",
   "versions": {
+    "0.91.6": {
+      "BOARD": {
+        "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.6/Board-0.91.6.zip",
+        "checksum": "7b7da46f94ec686a5e427e6beae7d2e9a3aac01f33ebf30100b9335a3221ae16",
+        "version": "0.91.6",
+        "release_notes": "* Fixed critical issues with \"Import in Board\" and \"Load a Board\" windows disappearing\n* Added keyboard shortcut ⌘L for \"Load a Board\" function\n* \"Load a Board\" no longer closes the application after loading\n* Fixed file selection panel behavior and focus management\n* Improved window hierarchy and modal dialog behavior\n* Added full support for macOS 13 (Ventura)\n* Enhanced system integration for modal dialogs and file operations\n* Improved PSB file detection and path management\n* Fixed window ordering problems in file selection panels\n* Enhanced error handling and preference synchronization"
+      },
+      "release_date": "2024-04-20"
+    },
     "0.91.5": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.91.5/Board-0.91.5.zip",

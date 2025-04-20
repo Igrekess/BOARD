@@ -80,8 +80,6 @@ Perfect for:
 - Trusted developer certificate
 - Gatekeeper compatible
 
-## Applications
-
 ## Work Environments
 
 ### Adobe Photoshop Workflow

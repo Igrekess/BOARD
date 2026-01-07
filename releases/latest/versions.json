@@ -4,7 +4,7 @@
     "0.92.0": {
       "BOARD": {
         "url": "https://raw.githubusercontent.com/Igrekess/BOARD/main/releases/0.92.0/Board-0.92.0.zip",
-        "checksum": "438be994eb40fe0a8808106a4c96a5fc684bee86f49b50efe65865ccd2eefe24",
+        "checksum": "36d777289cdbeb2212374b33f3a271058f6eb641332856f610bb14e0fb60d4f3",
         "version": "0.92.0",
         "release_notes": "* Fixing several bugs * "
       },
